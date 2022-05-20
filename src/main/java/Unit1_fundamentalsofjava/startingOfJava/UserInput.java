@@ -1,4 +1,4 @@
-package Unit1_fundamentalsofjava;
+package Unit1_fundamentalsofjava.startingOfJava;
 import java.util.Scanner;
 
 public class UserInput {

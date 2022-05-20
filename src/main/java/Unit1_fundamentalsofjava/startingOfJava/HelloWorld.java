@@ -1,4 +1,4 @@
-package Unit1_fundamentalsofjava;
+package Unit1_fundamentalsofjava.startingOfJava;
 
 public class HelloWorld {
     public static void main(String[] args) {
