@@ -1,6 +1,6 @@
 package Unit1_fundamentalsofjava.arrayWithCoding;
 
-public class arrayFirstProgram {
+public class ArrayFirstProgram {
     public static void main(String[] args) {
         //Create an integer array of 10 elements and give each element an arbitrary value. Print out the entire array using a loop.
 

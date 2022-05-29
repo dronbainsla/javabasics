@@ -1,6 +1,6 @@
 package Unit1_fundamentalsofjava.Methods;
 
-public class returningDataFromMethods {
+public class ReturningDataFromMethods {
     public static void main(String[] args) {
         methodOne(3);
 //        int var = methodTwo();

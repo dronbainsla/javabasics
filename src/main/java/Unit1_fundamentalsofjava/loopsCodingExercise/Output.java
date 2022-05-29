@@ -1,6 +1,6 @@
 package Unit1_fundamentalsofjava.loopsCodingExercise;
 
-public class output {
+public class Output {
     public static void main(String[] args) {
         //Write a program which makes use of a loop to print the following output:
         //

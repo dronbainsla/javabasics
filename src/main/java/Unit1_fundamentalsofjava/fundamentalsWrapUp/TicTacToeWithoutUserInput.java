@@ -1,6 +1,6 @@
 package Unit1_fundamentalsofjava.fundamentalsWrapUp;
 
-public class ticTacToeWithoutUserInput {
+public class TicTacToeWithoutUserInput {
     public static void main(String[] args) {
         char[] pos={'x','0','x','0',' ',' ',' ','x',' '};
         // look of the program in console

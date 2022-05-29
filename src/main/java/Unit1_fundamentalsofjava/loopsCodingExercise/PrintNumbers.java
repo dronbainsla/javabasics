@@ -1,6 +1,6 @@
 package Unit1_fundamentalsofjava.loopsCodingExercise;
 
-public class printNumbers {
+public class PrintNumbers {
     public static void main(String[] args) {
 
 //        for (int i=89; i<=117; i++) {

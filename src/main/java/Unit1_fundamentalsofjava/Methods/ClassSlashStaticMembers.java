@@ -1,6 +1,6 @@
 package Unit1_fundamentalsofjava.Methods;
 
-public class classSlashStaticMembers {  // It's a class
+public class ClassSlashStaticMembers {  // It's a class
     // int var=5;  It's a class variable that is global.
     // below are all the methods in a class. main(String[] args) is the main method called first and should always be present
     static int y=20;
