@@ -1,6 +1,6 @@
 package Unit1_fundamentalsofjava.loopsCodingExercise;
 
-public class printNumbersSecond {
+public class PrintNumbersSecond {
     public static void main(String[] args) {
 
         //Write a program which prints numbers from 1 to 40. After every third number, print “Quack.”.

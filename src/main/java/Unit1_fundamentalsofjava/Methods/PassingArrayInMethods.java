@@ -1,6 +1,6 @@
 package Unit1_fundamentalsofjava.Methods;
 
-public class passingArrayInMethods {
+public class PassingArrayInMethods {
     public static void main(String[] args) {
         int[] x={21,43,67,8,34};
         int[] d= newMethod(x);

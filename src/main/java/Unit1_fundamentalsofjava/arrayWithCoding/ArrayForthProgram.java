@@ -2,7 +2,7 @@ package Unit1_fundamentalsofjava.arrayWithCoding;
 
 import java.util.Scanner;
 
-public class arrayForthProgram {
+public class ArrayForthProgram {
     public static void main(String[] args) {
         //Write a program which asks the user to enter their top five favourite foods and store their answers in a string array.
         // However, create the array, so it can only hold a maximum of three strings.

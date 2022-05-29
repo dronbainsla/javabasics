@@ -2,7 +2,7 @@ package Unit1_fundamentalsofjava.loopsCodingExercise;
 
 import java.util.Scanner;
 
-public class password {
+public class Password {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

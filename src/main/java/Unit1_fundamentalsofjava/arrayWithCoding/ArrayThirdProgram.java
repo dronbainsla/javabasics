@@ -1,6 +1,6 @@
 package Unit1_fundamentalsofjava.arrayWithCoding;
 
-public class arrayThirdProgram {
+public class ArrayThirdProgram {
     public static void main(String[] args) {
         //Create an array of five doubles and give each element some value.
         // Calculate the sum of all the elements and print the result.

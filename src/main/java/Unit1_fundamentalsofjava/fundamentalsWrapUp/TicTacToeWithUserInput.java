@@ -2,7 +2,7 @@ package Unit1_fundamentalsofjava.fundamentalsWrapUp;
 
 import java.util.Scanner;
 
-public class ticTacToeWithUserInput {
+public class TicTacToeWithUserInput {
     public static void main(String[] args) {
         char[] pos = {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '};
         // look of the program in console

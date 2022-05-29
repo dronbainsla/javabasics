@@ -1,6 +1,6 @@
 package Unit1_fundamentalsofjava.Methods;
 
-public class passingAndReturningData {
+public class PassingAndReturningData {
 //    public static void main(String[] args) {
 //       int y;
 //       y=add(10,20);

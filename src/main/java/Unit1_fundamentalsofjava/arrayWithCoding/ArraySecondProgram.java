@@ -1,6 +1,6 @@
 package Unit1_fundamentalsofjava.arrayWithCoding;
 
-public class arraySecondProgram {
+public class ArraySecondProgram {
     public static void main(String[] args) {
         //Use a loop to populate an array with integers from 1 to 20.
         // Use another loop to print the contents of the array (the elements) backwards.
